@@ -1,0 +1,3 @@
+C:/Users/Анастасия/CLionProjects/proga_lab2/cmake-build-debug/CMakeFiles/proga_lab2.dir
+C:/Users/Анастасия/CLionProjects/proga_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Анастасия/CLionProjects/proga_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

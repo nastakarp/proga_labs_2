@@ -1,0 +1,15 @@
+# ninja log v5
+2	340	7329921144542539	CMakeFiles/proga_lab2.dir/main.cpp.obj	fcd32b075f54cd70
+305	369	7329920919095795	proga_lab2.exe	4f23d0ffada3aef8
+8	376	7329922442737426	CMakeFiles/proga_lab2.dir/MarkerString.cpp.obj	55817a806faed3ab
+6	377	7329922442737426	CMakeFiles/proga_lab2.dir/MarkerText.cpp.obj	c463d4054c14da53
+2	377	7329922442747438	CMakeFiles/proga_lab2.dir/main.cpp.obj	fcd32b075f54cd70
+377	539	7329922444322480	proga_lab2.exe	d35f044230ab9827
+9	353	7329922993900416	CMakeFiles/proga_lab2.dir/MarkerString.cpp.obj	55817a806faed3ab
+6	355	7329922993920424	CMakeFiles/proga_lab2.dir/MarkerText.cpp.obj	c463d4054c14da53
+3	368	7329922994060494	CMakeFiles/proga_lab2.dir/main.cpp.obj	fcd32b075f54cd70
+368	436	7329922994714288	proga_lab2.exe	d35f044230ab9827
+9	371	7329933543075575	CMakeFiles/proga_lab2.dir/MarkerString.cpp.obj	55817a806faed3ab
+7	374	7329933543116301	CMakeFiles/proga_lab2.dir/MarkerText.cpp.obj	c463d4054c14da53
+3	379	7329933543176310	CMakeFiles/proga_lab2.dir/main.cpp.obj	fcd32b075f54cd70
+379	457	7329933543926565	proga_lab2.exe	d35f044230ab9827
